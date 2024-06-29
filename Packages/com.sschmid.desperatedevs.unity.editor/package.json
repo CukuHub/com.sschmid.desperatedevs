@@ -7,10 +7,7 @@
   "documentationUrl": "https://github.com/sschmid/DesperateDevs",
   "changelogUrl": "https://github.com/sschmid/DesperateDevs/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/sschmid/DesperateDevs/blob/main/LICENSE.md",
-  "dependencies": { 
-    "com.sschmid.desperatedevs.extensions": "1.0.0",
-    "com.sschmid.desperatedevs.serialization": "2.0.0"
-  },
+  "dependencies": { },
   "keywords": [
     "desperate",
     "devs",
